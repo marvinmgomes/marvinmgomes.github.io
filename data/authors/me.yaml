@@ -3,6 +3,8 @@ name:
   given: "Marvin Malthus"
   family: "Gomes"
 
+avatar: avatar.jpg
+
 role: "Doctor of Business Administration (DBA) Researcher"
 
 organizations:
@@ -27,5 +29,3 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:your-email@example.com"
-
-avatar: avatar.jpg
