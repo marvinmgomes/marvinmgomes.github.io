@@ -27,8 +27,8 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Install TailwindCSS
-        run: npm install -g @tailwindcss/cli
+      - name: Install dependencies
+        run: npm install
 
       - name: Build website
         run: hugo --minify
