@@ -27,3 +27,5 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:your-email@example.com"
+
+avatar: "uploads/avatar.jpg"
