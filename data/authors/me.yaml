@@ -1,4 +1,7 @@
-name: "Marvin Malthus Gomes"
+name:
+  display: "Marvin Malthus Gomes"
+  given: "Marvin Malthus"
+  family: "Gomes"
 
 role: "Doctor of Business Administration (DBA) Researcher"
 
