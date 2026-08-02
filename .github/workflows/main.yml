@@ -22,9 +22,12 @@ jobs:
           hugo-version: "latest"
           extended: true
 
-      - name: Build website
-        run: hugo --minify
+- name: Install TailwindCSS
+  run: npm install -g @tailwindcss/cli
 
+- name: Build website
+  run: hugo --minify
+  
       - name: Deploy website
         uses: peaceiris/actions-gh-pages@v4
         with:
