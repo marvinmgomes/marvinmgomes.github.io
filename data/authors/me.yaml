@@ -28,5 +28,4 @@ social:
     icon_pack: fas
     link: "mailto:your-email@example.com"
 
-avatar:
-  filename: avatar.jpg
+avatar: avatar.jpg
