@@ -7,7 +7,7 @@ is designed to give technical content creators a seamless experience. You can fo
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem"&gt;
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true"&gt;&lt;/i&gt;
 &lt;span class="article-metadata li-cite-author"&gt;
-&lt;span &gt;&lt;a href=""&gt;Dr. Alex Johnson&lt;/a&gt;&lt;/span&gt;
+&lt;span &gt;&lt;a href=""&gt;Marvin Malthus Gomes&lt;/a&gt;&lt;/span&gt;
 &lt;/span&gt;
 (2019).
 &lt;a href="https://example.com/publications/preprint/" class="underline"&gt;An example preprint / working paper&lt;/a&gt;.
@@ -54,7 +54,7 @@ Preprint
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem"&gt;
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true"&gt;&lt;/i&gt;
 &lt;span class="article-metadata li-cite-author"&gt;
-&lt;span &gt;&lt;a href=""&gt;Dr. Alex Johnson&lt;/a&gt;&lt;/span&gt;&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }"&gt;
+&lt;span &gt;&lt;a href=""&gt;Marvin Malthus Gomes&lt;/a&gt;&lt;/span&gt;&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }"&gt;
 &lt;button
 @mouseenter="tooltip = true"
 @mouseleave="tooltip = false"
