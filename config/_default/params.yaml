@@ -13,19 +13,21 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Marvin Malthus Gomes"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "University of Wales Trinity Saint David"
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Doctor of Business Administration (DBA) Researcher"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Researcher in digital transformation, digital ethics, consumer behaviour, branding, marketing strategy, and AI."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+     linkedin: "https://www.linkedin.com/in/marvingomes/"
+     orcid: "https://orcid.org/0009-0002-6030-7082" 
+     google_scholar: "https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en"
+     researchgatehgate: "https://www.researchgate.net/profile/Marvin-Gomes"
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
