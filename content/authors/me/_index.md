@@ -4,6 +4,10 @@ role: Doctor of Business Administration (DBA) Researcher
 
 superuser: true
 
+organizations:
+  - name: University of Wales Trinity Saint David
+    url: "https://www.uwtsd.ac.uk"
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -13,8 +17,8 @@ social:
     icon_pack: fab
     link: "https://www.linkedin.com/in/marvingomes/"
 
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: "https://scholar.google.com/citations?hl=en&user=M8Lu_fYAAAAJ"
 
   - icon: orcid
