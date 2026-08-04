@@ -1,31 +1,11 @@
 ---
-title: Marvin Malthus Gomes
-role: Doctor of Business Administration (DBA) Researcher
+title: ''
+summary: ''
+date: 2022-10-24
+type: landing
 
-bio: "Researcher in digital transformation, digital ethics, consumer behaviour, branding, marketing strategy, and AI."
-
-organizations:
-  - name: University of Wales Trinity Saint David
-    url: https://www.uwtsd.ac.uk/
-
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:marvin.mgomes@gmail.com
-
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/marvingomes/
-
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en
-
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0002-6030-7082
-
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Marvin-Gomes
----
+sections:
+  - block: resume-biography-3
+    content:
+      username: me
+      text: ''
