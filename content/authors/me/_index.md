@@ -4,28 +4,38 @@ role: Doctor of Business Administration (DBA) Researcher
 
 superuser: true
 
-organizations:
+affiliations:
   - name: University of Wales Trinity Saint David
     url: "https://www.uwtsd.ac.uk"
 
-social:
+links:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:marvin.mgomes@gmail.com"
+    url: "mailto:marvin.mgomes@gmail.com"
+    label: Email
 
   - icon: linkedin
     icon_pack: fab
-    link: "https://www.linkedin.com/in/marvingomes/"
+    url: "https://www.linkedin.com/in/marvingomes/"
+    label: LinkedIn
+
+  - icon: github
+    icon_pack: fab
+    url: "https://github.com/marvinmgomes"
+    label: GitHub
 
   - icon: graduation-cap
     icon_pack: fas
-    link: "https://scholar.google.com/citations?hl=en&user=M8Lu_fYAAAAJ"
+    url: "https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en"
+    label: Google Scholar
 
-  - icon: orcid
-    icon_pack: ai
-    link: "https://orcid.org/0009-0002-6030-7082"
+  - icon: globe
+    icon_pack: fas
+    url: "https://orcid.org/0009-0002-6030-7082"
+    label: ORCID
 
-  - icon: researchgate
-    icon_pack: ai
-    link: "https://www.researchgate.net/profile/Marvin-Gomes"
+  - icon: link
+    icon_pack: fas
+    url: "https://www.researchgate.net/profile/Marvin-Gomes"
+    label: ResearchGate
 ---

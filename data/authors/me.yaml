@@ -25,27 +25,23 @@ education:
       institution: "University of Wales Trinity Saint David"
       year: "2025 - Present"
 
-links:
-  - icon: hero/envelope
-    url: "mailto:marvin.mgomes@gmail.com"
-    label: Email
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:marvin.mgomes@gmail.com"
 
-  - icon: hero/link
-    url: "https://www.linkedin.com/in/marvingomes/"
-    label: LinkedIn
+  - icon: linkedin
+    icon_pack: brands
+    link: "https://www.linkedin.com/in/marvingomes/"
 
-  - icon: hero/link
-    url: "https://github.com/marvinmgomes"
-    label: GitHub
+  - icon: github
+    icon_pack: brands
+    link: "https://github.com/marvinmgomes"
 
-  - icon: hero/globe-alt
-    url: "https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en"
-    label: Google Scholar
+  - icon: google-scholar
+    icon_pack: academicons
+    link: "https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en"
 
-  - icon: hero/link
-    url: "https://orcid.org/0009-0002-6030-7082"
-    label: ORCID
-
-  - icon: hero/link
-    url: "https://www.researchgate.net/profile/Marvin-Gomes"
-    label: ResearchGate
+  - icon: orcid
+    icon_pack: academicons
+    link: "https://orcid.org/0009-0002-6030-7082"

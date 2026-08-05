@@ -1,0 +1,20 @@
+{
+  "height": "512",
+  "icons": {
+    "google-scholar": {
+      "src": "media/icons/custom/google-scholar.svg"
+    },
+    "linkedin": {
+      "src": "media/icons/custom/linkedin.svg"
+    },
+    "orcid": {
+      "src": "media/icons/custom/orcid.svg"
+    },
+    "researchgate": {
+      "src": "media/icons/custom/researchgate.svg"
+    },
+    "envelope": {
+      "src": "media/icons/custom/envelope.svg"
+    }
+  }
+}
