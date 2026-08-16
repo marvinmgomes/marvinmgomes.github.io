@@ -3,7 +3,6 @@ title: "Research"
 type: page
 ---
 
-# Research
 
 My current research focuses on how social media users reconcile awareness of digital risks with continued platform use.
 
@@ -12,5 +11,4 @@ My current research focuses on how social media users reconcile awareness of dig
 - Digital Transformation
 - Social Media and Digital Ethics
 - Consumer Behaviour
-- Branding
-- Marketing Strategy
+- Branding & Marketing Strategy

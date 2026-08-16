@@ -14,10 +14,13 @@ organizations:
 bio: "Marvin Malthus Gomes is a Doctor of Business Administration (DBA) researcher at the University of Wales Trinity Saint David. His research interests include digital transformation, social media and digital ethics, consumer behaviour, branding, and marketing strategy."
 
 interests:
-  - Digital Transformation
-  - Social Media and Digital Ethics
-  - Consumer Behaviour
-  - Branding and Marketing Strategy
+  - Digital Transformation and Innovation
+  - Artificial Intelligence and AI-Driven Decision Making
+  - Digital Strategy and Business Transformation
+  - Social Media Behaviour and Digital Ethics
+  - Consumer Decision-Making in Digital Environments
+  - Privacy, Trust, and Responsible Technology Use
+  - Digital Marketing and Brand Strategy
 
 education:
   courses:
@@ -25,23 +28,23 @@ education:
       institution: "University of Wales Trinity Saint David"
       year: "2025 - Present"
 
-social:
+links:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:marvin.mgomes@gmail.com"
+    url: "mailto:marvin.mgomes@gmail.com"
 
-  - icon: linkedin
-    icon_pack: brands
-    link: "https://www.linkedin.com/in/marvingomes/"
+  - icon: brands/linkedin
+    icon_pack: fab
+    url: "https://www.linkedin.com/in/marvingomes/"
 
-  - icon: github
-    icon_pack: brands
-    link: "https://github.com/marvinmgomes"
+  - icon: brands/google-scholar
+    icon_pack: ai
+    url: "https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en"
 
-  - icon: google-scholar
-    icon_pack: academicons
-    link: "https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en"
+  - icon: brands/orcid
+    icon_pack: ai
+    url: "https://orcid.org/0009-0002-6030-7082"
 
-  - icon: orcid
-    icon_pack: academicons
-    link: "https://orcid.org/0009-0002-6030-7082"
+  - icon: brands/researchgate
+    icon_pack: ai
+    url: "https://www.researchgate.net/profile/Marvin-Gomes"
