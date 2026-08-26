@@ -28,18 +28,23 @@ education:
       institution: "University of Wales Trinity Saint David"
       year: "2025 - Present"
 
-profiles:
+links:
   - icon: envelope
     url: "mailto:marvin.mgomes@gmail.com"
+    label: Email
 
   - icon: brands/linkedin
     url: "https://www.linkedin.com/in/marvingomes/"
+    label: LinkedIn
 
   - icon: academicons/google-scholar
     url: "https://scholar.google.com/citations?user=M8Lu_fYAAAAJ&hl=en"
+    label: Google Scholar
 
   - icon: academicons/orcid
     url: "https://orcid.org/0009-0002-6030-7082"
+    label: ORCID
 
   - icon: academicons/researchgate
     url: "https://www.researchgate.net/profile/Marvin-Gomes"
+    label: ResearchGate
