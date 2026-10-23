@@ -26,7 +26,19 @@ education:
   courses:
     - course: "Doctor of Business Administration (DBA)"
       institution: "University of Wales Trinity Saint David"
-      year: "2025 - Present"
+      year: "2025 – Present"
+    - course: "Master of Business Administration (MBA), Marketing"
+      institution: "North South University"
+      year: "2018 – 2020"
+    - course: "Bachelor of Business Administration (BBA), Finance"
+      institution: "East West University"
+      year: "2013 – 2017"
+    - course: "Higher Secondary Certificate (HSC), Business Studies"
+      institution: "Notre Dame College"
+      year: "2012"
+    - course: "Secondary School Certificate (SSC), Business Studies"
+      institution: "St. Gregory’s High School"
+      year: "2010"
 
 links:
   - icon: envelope
